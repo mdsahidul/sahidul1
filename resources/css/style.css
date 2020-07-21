@@ -435,7 +435,7 @@ cite img {
 	width: 90%;
 	margin-left: 5%;
 	-webkit-box-shadow: 0 3px 6px #cccccc;
-	box-shadow: 0 3px 6px #cccccc;
+	box-shadow: 5px 5px 10px #cccccc;
 }
 
 .plan_box div {
